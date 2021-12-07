@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/ariffb25/stikerinbot/issues"
   },
-  "homepage": "https://youtu.be/egNE_fgjEMU",
+  "homepage": "https://github.com/ariffb25/stikerinbot.git",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "awesome-phonenumber": "^2.54.0",
@@ -66,6 +66,6 @@
     "node-tesseract-ocr": "^2.2.1",
     "xmldom": "^0.6.0",
     "yargs": "^17.0.1"
-    
+
   }
 }
